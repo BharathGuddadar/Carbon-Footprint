@@ -34,9 +34,10 @@ a{
     color: #fff;
 }
 .logo{
-    height: 80px;
+    margin: 10px;
+    height: 60px;
     width: 80px;
-    background-image: url("../img/image.png");
+    background-image: url("https://media.istockphoto.com/id/1366028993/vector/carbon-dioxide-symbol-with-leaves-infinity-co2-sign-carbon-neutrality-concept.jpg?s=612x612&w=0&k=20&c=WSC7IBw9IVPpol9td2Jy4J3DAdRQoZQvDxINMSzd8kU=");
     background-size: cover;
 }
 .router{
